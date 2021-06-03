@@ -10,6 +10,7 @@ function App() {
   return (
     <ThemeProvider theme={temaEscuro}>
       <GlobalStyle />
+      BrnT
       <Cabecalho />
       <Container />
     </ThemeProvider>
